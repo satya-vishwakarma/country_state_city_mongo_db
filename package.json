@@ -1,0 +1,26 @@
+{
+  "name": "country_state_city",
+  "version": "1.0.0",
+  "description": "Seed country, State, City in mongodb through express and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+ 
+  "keywords": [
+    "country",
+    "State",
+    "City",
+    "in",
+    "mongodb"
+  ],
+  "author": "Satya Vishwakarma",
+  "license": "ISC",
+ 
+  "dependencies": {
+    "async": "^2.5.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.0.4"
+  }
+}
